@@ -1,5 +1,5 @@
 # Library Management System
-This project is a demonstration of a full stack Java based web application.
+This project is a demonstration of a full stack Java based web application of a library management system. 
 
 
 ## Technologies used
